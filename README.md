@@ -5,8 +5,9 @@ This repository contains beginner-level Python programs I'm building as part of 
 
 ## What's Inside
 
-- Average of two floar numbers
-- Sum of two numbers
+- Average of two float numbers
+- square calculator
+
 
 
 
