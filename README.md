@@ -1,13 +1,24 @@
-# python-basics
-Python basics and beginner-level programs.
+# Python Basics
 
-This repository contains beginner-level Python programs I'm building as part of my programming journey. Each script focuses on learning core Python concepts through simple problem-solving.
+A collection of beginner Python programs I'm creating to learn core programming concepts.  
+Each folder contains a small, self-contained script and a short README explaining what it does.
 
-## What's Inside
+## Project Structure
 
-- Average of two float numbers
-- square calculator
+- [average](./average)  
+  Calculate the average of two numbers entered by the user.
 
+- [square](./square)  
+  Compute the square of a number using Python's `**` operator.
+
+- [compare-numbers](./compare-numbers)  
+  Check if the first number is greater than the second and output `True` or `False`.
+
+
+## Goal
+
+- Build *small projects* to strengthen my programming fundamentals.
+- Learn *Git & GitHub workflow* for version control.
 
 
 
