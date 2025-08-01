@@ -14,13 +14,13 @@ Each folder contains a small, self-contained script and a short README explainin
 - [compare-numbers](./compare-numbers)  
   Check if the first number is greater than the second and output `True` or `False`.
 
-- [greatest-number](./greatest-number)
+- [greatest-number](./greatest-number)  
   Takes three numbers as input from the user and prints which one is the greatest.
 
-- [even-odd](./even-odd)
+- [even-odd](./even-odd)  
   Reads an integer from the user and prints whether it is even or odd.
 
-- [occurrence-cpunter](./occurrence-counter)
+- [occurrence-cpunter](./occurrence-counter)  
   Counts how many times a given character or substring appears in the user-provided text.
 
 ## Goal
