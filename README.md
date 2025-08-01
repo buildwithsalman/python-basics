@@ -20,6 +20,9 @@ Each folder contains a small, self-contained script and a short README explainin
 - [even-odd](./even-odd)
   Reads an integer from the user and prints whether it is even or odd.
 
+- [occurrence-cpunter](./occurrence-counter)
+  Counts how many times a given character or substring appears in the user-provided text.
+
 ## Goal
 
 - Build *small projects* to strengthen my programming fundamentals.
