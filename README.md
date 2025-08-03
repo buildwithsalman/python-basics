@@ -23,6 +23,20 @@ Each folder contains a small, self-contained script and a short README explainin
 - [occurrence-cpunter](./occurrence-counter)  
   Counts how many times a given character or substring appears in the user-provided text.
 
+- [multiplication-table](./multiplication-table)  
+  Print the multiplication table of a user-provided number.
+
+- [tuple-search](./tuple-search)  
+  Search for a value inside a tuple using linear search and report its index.
+
+- [factorial](./factorial)  
+  Calculate the factorial of a given non-negative integer.
+
+- [sum-upto](./sum-upto)  
+  Calculate the sum of all integers from 0 up to a given number `n`.
+
+
+
 ## Goal
 
 - Build *small projects* to strengthen my programming fundamentals.
