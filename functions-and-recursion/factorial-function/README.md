@@ -1,0 +1,1 @@
+function to print factorial of a number n, given by user

@@ -1,0 +1,1 @@
+i used recursion in this code to find factorial of a number given by user.

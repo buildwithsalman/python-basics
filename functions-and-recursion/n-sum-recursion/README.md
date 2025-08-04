@@ -1,0 +1,1 @@
+sum of natural number upto number n ( n will be given by the user)

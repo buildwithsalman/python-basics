@@ -1,0 +1,1 @@
+tells if the number given by user is odd or even

@@ -35,6 +35,9 @@ Each folder contains a small, self-contained script and a short README explainin
 - [sum-upto](./sum-upto)  
   Calculate the sum of all integers from 0 up to a given number `n`.
 
+- [function-recursion](./function-recursion)
+  Here are the codes where i used functions and recursion.
+
 
 
 ## Goal

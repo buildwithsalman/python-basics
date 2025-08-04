@@ -1,0 +1,1 @@
+This script asks the user to input three integers and prints their average using a function.
