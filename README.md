@@ -6,7 +6,7 @@ Each folder contains a small, self-contained script and a short README explainin
 ## Project Structure
 
 - [average](./average)  
-  Calculate the average of two numbers entered by the user.
+  Calculate the average of three numbers entered by the user.
 
 - [square](./square)  
   Compute the square of a number using Python's `**` operator.
@@ -20,7 +20,7 @@ Each folder contains a small, self-contained script and a short README explainin
 - [even-odd](./even-odd)  
   Reads an integer from the user and prints whether it is even or odd.
 
-- [occurrence-cpunter](./occurrence-counter)  
+- [occurrence-counter](./occurrence-counter)  
   Counts how many times a given character or substring appears in the user-provided text.
 
 - [multiplication-table](./multiplication-table)  
@@ -35,15 +35,14 @@ Each folder contains a small, self-contained script and a short README explainin
 - [sum-upto](./sum-upto)  
   Calculate the sum of all integers from 0 up to a given number `n`.
 
-- [function-recursion](./function-recursion)
-  Here are the codes where i used functions and recursion.
+- [function-recursion](./function-recursion)  
+  Codes where I used functions and recursion.
 
-
+- [file-io](./file-io)  
+  File handling projects including reading numbers, counting even values, searching for words, and replacing words in text files.
 
 ## Goal
 
 - Build *small projects* to strengthen my programming fundamentals.
 - Learn *Git & GitHub workflow* for version control.
-
-
 
