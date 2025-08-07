@@ -41,6 +41,12 @@ Each folder contains a small, self-contained script and a short README explainin
 - [file-io](./file-io)  
   File handling projects including reading numbers, counting even values, searching for words, and replacing words in text files.
 
+- [basic-calculator](./basic-calculator)
+  A beginner-friendly Python program that performs basic arithmetic operations based on user input
+
+- [password-strength](./password-strength/)
+  Python program that checks the strength of a password based on character types and length.
+
 ## Goal
 
 - Build *small projects* to strengthen my programming fundamentals.
