@@ -41,14 +41,17 @@ Each folder contains a small, self-contained script and a short README explainin
 - [file-io](./file-io)  
   File handling projects including reading numbers, counting even values, searching for words, and replacing words in text files.
 
-- [basic-calculator](./basic-calculator)
+- [basic-calculator](./basic-calculator)  
   A beginner-friendly Python program that performs basic arithmetic operations based on user input
 
-- [password-strength](./password-strength/)
+- [password-strength](./password-strength/)  
   Python program that checks the strength of a password based on character types and length.
 
-- [percentage-calculator](./percentage-calculator/)
+- [percentage-calculator](./percentage-calculator/)  
   program that takes marks of multiple subjects and calculates the overall percentage based on user input.
+
+- [number-guessing](./number-guessing/)  
+  number guessing game where the computer randomly picks a number between 1 and 100, and you try to guess it in the fewest attempts possible!
 
 ## Goal
 
