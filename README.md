@@ -47,6 +47,9 @@ Each folder contains a small, self-contained script and a short README explainin
 - [password-strength](./password-strength/)
   Python program that checks the strength of a password based on character types and length.
 
+- [percentage-calculator](./percentage-calculator/)
+  program that takes marks of multiple subjects and calculates the overall percentage based on user input.
+
 ## Goal
 
 - Build *small projects* to strengthen my programming fundamentals.
