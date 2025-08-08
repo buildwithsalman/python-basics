@@ -53,6 +53,10 @@ Each folder contains a small, self-contained script and a short README explainin
 - [number-guessing](./number-guessing/)  
   number guessing game where the computer randomly picks a number between 1 and 100, and you try to guess it in the fewest attempts possible!
 
+- [to-do](./to-do/)  
+  Command Line Interface (CLI) program to manage daily tasks.
+  You can add tasks, view them, mark them as done, delete them, and exit anytime.
+
 ## Goal
 
 - Build *small projects* to strengthen my programming fundamentals.
