@@ -57,6 +57,16 @@ Each folder contains a small, self-contained script and a short README explainin
   Command Line Interface (CLI) program to manage daily tasks.
   You can add tasks, view them, mark them as done, delete them, and exit anytime.
 
+- [oop-circle](./oop-circle)   
+  Practice program for Object-Oriented Programming using a `Circle` class with methods to calculate area and perimeter.
+
+- [oop-account](./oop-account)   
+  Beginner OOP program simulating a bank account with debit, credit, and balance check methods.
+
+- [oop-average-marks](./oop-average-marks)    
+  Beginner OOP program that stores a student's marks and calculates their average score.
+
+
 ## Goal
 
 - Build *small projects* to strengthen my programming fundamentals.
