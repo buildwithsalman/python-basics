@@ -66,6 +66,9 @@ Each folder contains a small, self-contained script and a short README explainin
 - [oop-average-marks](./oop-average-marks)    
   Beginner OOP program that stores a student's marks and calculates their average score.
 
+- [CLI-phonebook](./CLI-phonebook/)  
+  A simple Python Contact Book application that lets you add, search, edit, delete, and store contacts in a text file for persistent storage.
+
 
 ## Goal
 
